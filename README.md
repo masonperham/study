@@ -4,7 +4,7 @@
 
 ## Visualizations
 - Display the visualizations we tested (including the ones we didn't make I think)
-+ Include screenshots from the trials, not just generic images
+- Include screenshots from the trials, not just generic images
 - Order these based on performance (Best -> Worst)
 
 - Display the average log2Error calculations for each visualization across all of the trials
