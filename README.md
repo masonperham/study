@@ -1,9 +1,9 @@
 ## ReadMe
 - Working link to the experiment
-- Description of the experiment
+In this experiment, we replicated the 1984 Cleveland-McGill study 
 
 ## Visualizations
-- Display the visualizations we tested (including the ones we didn't make I think)
+- Display the visualizations we tested
 - Include screenshots from the trials, not just generic images
 - Order these based on performance (Best -> Worst)
 
