@@ -23,6 +23,9 @@ Throughout our study, we found that the -BEST PERFORMER- had an accuracy of -ACC
 - Display the average log2Error calculations for each visualization across all of the trials
 - Bootstrapped 95% Confidence Intervals for upper and lower bounds
 
+## Technical + Design Achievemnets 
+- xxx
+
 ## References
 To set up this experiment, we used the ReVISit tutorial.
 https://revisit.dev/tutorial/
