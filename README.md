@@ -21,15 +21,15 @@ Tree Maps had an accuracy of 2.774325.
 
 barChart2           0.000000
 ![image](https://github.com/masonperham/study/assets/87674389/31885c31-6e1b-4866-bc49-fc758b9d87f6)
-
+<br />
 
 barChart1           0.235755
 ![image](https://github.com/masonperham/study/assets/87674389/e79fa2e6-5e39-4639-9884-7b6acc4f041e)
-
+<br />
 
 pieChart2           0.717287
 ![image](https://github.com/masonperham/study/assets/87674389/1b276a03-b9b6-4d36-aebf-26fcc417f074)
-
+<br />
 
 barChart6           0.973066
 ![image](https://github.com/masonperham/study/assets/87674389/bedfcff3-5806-40c0-80f4-0ee908e95715)
