@@ -1,4 +1,4 @@
-## ReadMe
+# ReadMe
 - Working link to the experiment -
 In this experiment, we replicated the 1984 Cleveland-McGill study.
 We created four different visualizations for the same data.
@@ -14,8 +14,8 @@ Stacked Bar Charts had an accuracy of 2.505123
 Tree Maps had an accuracy of 2.774325.
 
 
-## Visualizations 
-# Here 
+# Visualizations 
+## Here 
 barChart2 -> 0.000000
 <br />
 ![image](https://github.com/masonperham/study/assets/87674389/31885c31-6e1b-4866-bc49-fc758b9d87f6)
