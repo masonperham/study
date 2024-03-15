@@ -209,5 +209,5 @@ CI: (4.769910072811927, 5.225612470938529)
 - xxx
 
 # References
-To set up this experiment, we used the ReVISit tutorial.
+To set up this experiment, we used the ReVISit tutorial: 
 https://revisit.dev/tutorial/
