@@ -206,7 +206,10 @@ CI: (4.769910072811927, 5.225612470938529)
 
 
 # Technical + Design Achievemnets 
-- xxx
+- In our study we implemented four different visualizations
+- We wanted to test Tree Maps against other charts with similar layouts, that is why we used pie charts and stacked bar charts
+- We used the same 6 data points and the same dot points for each of the visualizations in order to see exactly which visualizations were the best at displaying each ratio
+
 
 # References
 To set up this experiment, we used the ReVISit tutorial: 
